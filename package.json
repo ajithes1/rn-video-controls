@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "rn-video-tools",
   "author": {
     "name": "Ajith E S",
@@ -46,7 +46,7 @@
     "@types/react-native": "^0.62.5",
     "husky": "^4.2.5",
     "react": "^16.13.1",
-    "rn-slider-control": "1.0.0",
+    "rn-slider-control": "1.0.1",
     "rollup-plugin-copy-assets": "^2.0.3",
     "tsdx": "^0.13.2",
     "tslib": "^1.11.1",
